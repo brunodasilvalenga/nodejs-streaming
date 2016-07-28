@@ -31,7 +31,7 @@ Video streaming using nodejs
   
 4. **Edit index.html:**
   
-  Edit the file index.html in directory of the project and edit the attribute **src**
+  Edit the file index.html in directory of the project and edit the attribute `src`
 
   ```
   <video src="/movies/1.mp4" controls width="640" height="480"></video>
