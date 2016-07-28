@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-streaming",
+  "version": "1.0.0",
+  "description": "Video streaming com nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunovalenga/nodejs-streaming.git"
+  },
+  "keywords": [
+    "streaming",
+    "nodejs",
+    "video"
+  ],
+  "author": "Bruno da Silva Valenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunovalenga/nodejs-streaming/issues"
+  },
+  "homepage": "https://github.com/brunovalenga/nodejs-streaming#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
