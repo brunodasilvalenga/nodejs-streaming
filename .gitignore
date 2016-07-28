@@ -1,2 +1,3 @@
 node_modules/
 movies/*
+npm-debug.log
