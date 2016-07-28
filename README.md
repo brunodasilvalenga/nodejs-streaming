@@ -1,6 +1,6 @@
 # nodejs-streaming
 
-Streaming video using nodejs.
+Video streaming using nodejs
 
 ## Requirements
 
