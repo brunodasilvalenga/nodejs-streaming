@@ -1,7 +1,7 @@
 {
   "name": "nodejs-streaming",
   "version": "1.0.0",
-  "description": "Video streaming com nodejs",
+  "description": "Video streaming using nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
