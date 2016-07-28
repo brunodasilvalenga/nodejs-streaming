@@ -25,7 +25,7 @@ app.get('/movies/:movieName', (req, res) => {
       'Content-Range': `bytes ${start}-${end}/${size}`,
       'Accept-Ranges': 'bytes',
       'Content-Length': chunkSize,
-      'Content-Type': 'video/wmv'
+      'Content-Type': 'video/mp4'
     });
     // É importante usar status 206 - Partial Content para o streaming funcionar
     res.status(206);
@@ -37,4 +37,4 @@ app.get('/movies/:movieName', (req, res) => {
   });
 });
 
-app.listen(3000, () => console.log('VideoFlix Server!'));
+app.listen(3000, () => console.log('Server On!'));
